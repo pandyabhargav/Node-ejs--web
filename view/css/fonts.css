@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Laila';
+    src: url('../fonts/Laila-Light.woff2') format('woff2'),
+        url('../fonts/Laila-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Laila';
+    src: url('../fonts/Laila-Medium.woff2') format('woff2'),
+        url('../fonts/Laila-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Laila';
+    src: url('../fonts/Laila-Bold.woff2') format('woff2'),
+        url('../fonts/Laila-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Laila';
+    src: url('../fonts/Laila-Regular.woff2') format('woff2'),
+        url('../fonts/Laila-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Laila';
+    src: url('../fonts/Laila-SemiBold.woff2') format('woff2'),
+        url('../fonts/Laila-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
